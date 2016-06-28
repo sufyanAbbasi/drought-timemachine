@@ -1,0 +1,28 @@
+<QuadTreeInfo>
+ <version>1</version>
+ <bounding_box>
+  <bbox>
+   <min>
+    <vector>
+     <elt>15576</elt>
+     <elt>15292</elt>
+    </vector>
+   </min>
+   <max>
+    <vector>
+     <elt>17984</elt>
+     <elt>16124</elt>
+    </vector>
+   </max>
+  </bbox>
+ </bounding_box>
+ <projection_size>
+  <vector>
+   <elt>62832</elt>
+   <elt>31416</elt>
+  </vector>
+ </projection_size>
+ <nlevels>5</nlevels>
+ <tile_size>256</tile_size>
+ <suffix>jpg</suffix>
+</QuadTreeInfo>

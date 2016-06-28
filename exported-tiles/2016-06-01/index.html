@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Earth Engine Map Tile Viewer</title>
+  <style type="text/css">
+    html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+  </style>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+  <script type="text/javascript">
+    var minZoom =  0.0 ;
+    var maxZoom =  6.0 ;
+    var tilePrefix = 'https:\/\/storage.googleapis.com\/sufy_map_tiles\/period_mean_2016-06-01\/';
+    var tileSuffix = '.png';
+    var latLngBounds = new google.maps.LatLngBounds(
+        new google.maps.LatLng( 33.999999999999964 ,  -124.99999999999999 ),
+        new google.maps.LatLng( 45.354883151198635 ,  -107.0 ));
+
+    function initialize() {
+      var mapOptions = {
+          minZoom: minZoom,
+          maxZoom: maxZoom,
+      };
+      var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+      map.fitBounds(latLngBounds);
+      var overlayMapType = new google.maps.ImageMapType({
+        getTileUrl: function(coord, zoom) {
+          if (zoom < minZoom || zoom > maxZoom) {
+            return null;
+          }
+          var numTiles = 1 << zoom;
+          var x = ((coord.x % numTiles) + numTiles) % numTiles;
+          return [tilePrefix, zoom, '/', x, '/', coord.y, tileSuffix].join('');
+        },
+        tileSize: new google.maps.Size(256, 256),
+      });
+      map.overlayMapTypes.push(overlayMapType);
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+  </script>
+</head>
+<body>
+  <div id="map-canvas"></div>
+</body>
+</html>
