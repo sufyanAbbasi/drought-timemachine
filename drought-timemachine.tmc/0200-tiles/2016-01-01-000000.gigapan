@@ -18,7 +18,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0100.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01000.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -26,23 +26,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>-4.9077920231098155e-08</elt>
-             <elt>-0.028794446795821951</elt>
-             <elt>-0.99958535395118719</elt>
+             <elt>1.4717268485249552e-07</elt>
+             <elt>-0.0036711969539441379</elt>
+             <elt>-0.99999326113374576</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7037163652835335e-06</elt>
-             <elt>0.99958535394973513</elt>
-             <elt>-0.028794446795863779</elt>
+             <elt>4.9241908711073401e-05</elt>
+             <elt>0.99999325992140853</elt>
+             <elt>-0.0036711969422462661</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99999999999854738</elt>
-             <elt>-1.7044230975864216e-06</elt>
-             <elt>-5.2204334605177038e-17</elt>
+             <elt>0.99999999878760637</elt>
+             <elt>-4.9241036576526094e-05</elt>
+             <elt>3.2794843814780388e-07</elt>
             </vector>
            </row>
           </matrix>
@@ -62,8 +62,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -85,7 +85,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0101.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01010.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -93,23 +93,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>-1.6361316826285965e-08</elt>
-             <elt>-0.0095993283323543774</elt>
-             <elt>-0.99995392538634875</elt>
+             <elt>1.6392783138463334e-06</elt>
+             <elt>0.0057176111397093969</elt>
+             <elt>-0.99998365432649317</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669521692e-06</elt>
-             <elt>0.99995392538489625</elt>
-             <elt>-0.0095993283323683211</elt>
+             <elt>6.6234791497353854e-05</elt>
+             <elt>0.99998365213372786</elt>
+             <elt>0.0057176112357508451</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99999999999854761</elt>
-             <elt>-1.7044230975864216e-06</elt>
-             <elt>8.0413919880534257e-17</elt>
+             <elt>0.99999999780513227</elt>
+             <elt>-6.6243081601182526e-05</elt>
+             <elt>1.260546733407057e-06</elt>
             </vector>
            </row>
           </matrix>
@@ -129,8 +129,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -152,7 +152,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0102.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01020.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -160,23 +160,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>1.6361316868754503e-08</elt>
-             <elt>0.0095993283323545005</elt>
-             <elt>-0.99995392538634875</elt>
+             <elt>8.7955326026456003e-07</elt>
+             <elt>0.015109323736854623</elt>
+             <elt>-0.99988584765234145</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669513019e-06</elt>
-             <elt>0.99995392538489636</elt>
-             <elt>0.0095993283323684425</elt>
+             <elt>7.6240229147874275e-05</elt>
+             <elt>0.99988584474576048</elt>
+             <elt>0.015109323759998135</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99999999999854761</elt>
-             <elt>-1.7044230975855543e-06</elt>
-             <elt>-6.737130655871254e-17</elt>
+             <elt>0.99999999709332699</elt>
+             <elt>-7.6244815601705582e-05</elt>
+             <elt>-2.7248544929969252e-07</elt>
             </vector>
            </row>
           </matrix>
@@ -196,8 +196,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -219,7 +219,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0103.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01030.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -227,23 +227,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>4.9077920237969286e-08</elt>
-             <elt>0.028794446795822076</elt>
-             <elt>-0.99958535395118719</elt>
+             <elt>1.6452557707676859e-06</elt>
+             <elt>0.024498639895364757</elt>
+             <elt>-0.9996998632792593</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7037163652800641e-06</elt>
-             <elt>0.99958535394973524</elt>
-             <elt>0.028794446795863904</elt>
+             <elt>6.6378853192180717e-05</elt>
+             <elt>0.999699861075522</elt>
+             <elt>0.02449863995060296</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99999999999854738</elt>
-             <elt>-1.7044230975846869e-06</elt>
-             <elt>4.5333203337050154e-17</elt>
+             <elt>0.99999999779557025</elt>
+             <elt>-6.6399236989611934e-05</elt>
+             <elt>1.8570344449185083e-08</elt>
             </vector>
            </row>
           </matrix>
@@ -263,8 +263,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -286,7 +286,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0104.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01031.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -294,23 +294,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.071480723670342639</elt>
-             <elt>-0.028720911796138157</elt>
-             <elt>-0.99702839245889219</elt>
+             <elt>0.012794288896528064</elt>
+             <elt>-0.003669193084476169</elt>
+             <elt>-0.99991141767345615</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7037163652835335e-06</elt>
-             <elt>0.99958535394973536</elt>
-             <elt>-0.028794446795863789</elt>
+             <elt>3.0319769597218424e-05</elt>
+             <elt>0.99999326835017632</elt>
+             <elt>-0.0036691054827616837</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.9974419813405998</elt>
-             <elt>0.0020565492410666367</elt>
-             <elt>0.07145113340289011</elt>
+             <elt>0.99991814927640144</elt>
+             <elt>1.6626511736800992e-05</elt>
+             <elt>0.012794314018944427</elt>
             </vector>
            </row>
           </matrix>
@@ -330,8 +330,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -353,7 +353,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0105.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01032.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -361,23 +361,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.071480756303256343</elt>
-             <elt>-0.0095748948711806402</elt>
-             <elt>-0.99739602108015257</elt>
+             <elt>0.012799584160343743</elt>
+             <elt>0.0057174509158731349</elt>
+             <elt>-0.99990173587225395</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669513019e-06</elt>
-             <elt>0.99995392538489603</elt>
-             <elt>-0.0095993283323683246</elt>
+             <elt>5.476008569328672e-05</elt>
+             <elt>0.99998364705811638</elt>
+             <elt>0.0057186202602878319</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99744197900199161</elt>
-             <elt>0.00068446734271133784</elt>
-             <elt>0.071477479173842395</elt>
+             <elt>0.99991808046792263</elt>
+             <elt>-0.00012795066604383201</elt>
+             <elt>0.012799061761385703</elt>
             </vector>
            </row>
           </matrix>
@@ -397,8 +397,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -420,7 +420,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0106.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01033.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -428,23 +428,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.071480788942184778</elt>
-             <elt>0.0095746512042209717</elt>
-             <elt>-0.99739602108015257</elt>
+             <elt>0.012798773040550814</elt>
+             <elt>0.01510937712403892</elt>
+             <elt>-0.99980392984403699</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669495672e-06</elt>
-             <elt>0.99995392538489625</elt>
-             <elt>0.009599328332368439</elt>
+             <elt>9.5260353297290518e-05</elt>
+             <elt>0.99988580518049197</elt>
+             <elt>0.015111833906717954</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99744197666295242</elt>
-             <elt>-0.00068786746900238813</elt>
-             <elt>0.071477479173842298</elt>
+             <elt>0.99991808781225744</elt>
+             <elt>-0.00028865460798354475</elt>
+             <elt>0.012795872162370504</elt>
             </vector>
            </row>
           </matrix>
@@ -464,8 +464,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -487,7 +487,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0107.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01034.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -495,23 +495,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.071480821575098427</elt>
-             <elt>0.028720668129178482</elt>
-             <elt>-0.99702839245889208</elt>
+             <elt>0.012798994441525812</elt>
+             <elt>0.024497281324568767</elt>
+             <elt>-0.99961796149778648</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7037163652817988e-06</elt>
-             <elt>0.99958535394973524</elt>
-             <elt>0.028794446795863897</elt>
+             <elt>5.9059335930769508e-05</elt>
+             <elt>0.99969982713186578</elt>
+             <elt>0.024500043765508718</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.99744197432434456</elt>
-             <elt>-0.0020599493673576965</elt>
-             <elt>0.071451133402890402</elt>
+             <elt>0.99991808777183344</elt>
+             <elt>-0.00037261269696241446</elt>
+             <elt>0.012793705737488016</elt>
             </vector>
            </row>
           </matrix>
@@ -531,8 +531,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -554,7 +554,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0108.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01040.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -562,23 +562,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.14259579786741353</elt>
-             <elt>-0.028500439338445309</elt>
-             <elt>-0.98937058951035695</elt>
+             <elt>0.025589557174594348</elt>
+             <elt>-0.0036690749881885297</elt>
+             <elt>-0.99966580038147679</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.703716365287003e-06</elt>
-             <elt>0.99958535394973524</elt>
-             <elt>-0.028794446795863786</elt>
+             <elt>5.8276467321427767e-05</elt>
+             <elt>0.99999326828711577</elt>
+             <elt>-0.0036687851266264653</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.98978100528735802</elt>
-             <elt>0.0041042815081423056</elt>
-             <elt>0.14253671963970835</elt>
+             <elt>0.99967253196607386</elt>
+             <elt>3.5625595410829431e-05</elt>
+             <elt>0.025589598733771288</elt>
             </vector>
            </row>
           </matrix>
@@ -598,8 +598,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -621,7 +621,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0109.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01050.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -629,23 +629,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.14259583024968597</elt>
-             <elt>-0.0095014758233701903</elt>
-             <elt>-0.98973539451339243</elt>
+             <elt>0.025593340353917363</elt>
+             <elt>0.0057193876532855934</elt>
+             <elt>-0.9996560756252123</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669513019e-06</elt>
-             <elt>0.99995392538489614</elt>
-             <elt>-0.009599328332368328</elt>
+             <elt>3.0217401713194311e-05</elt>
+             <elt>0.99998362856528156</elt>
+             <elt>0.0057220353303741667</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.98978100062210617</elt>
-             <elt>0.001367137343251037</elt>
-             <elt>0.14258927639548052</elt>
+             <elt>0.99967243635924941</elt>
+             <elt>-0.00017665300693960832</elt>
+             <elt>0.02559274852918236</elt>
             </vector>
            </row>
           </matrix>
@@ -665,8 +665,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -688,7 +688,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0110.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01060.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -696,23 +696,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.14259586263792712</elt>
-             <elt>0.0095009897360616956</elt>
-             <elt>-0.98973539451339254</elt>
+             <elt>0.025593455949537793</elt>
+             <elt>0.015105710200153371</elt>
+             <elt>-0.99955829871594193</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669478324e-06</elt>
-             <elt>0.99995392538489614</elt>
-             <elt>0.0095993283323684356</elt>
+             <elt>6.222868756621501e-06</elt>
+             <elt>0.9998858250336371</elt>
+             <elt>0.015110819239177894</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.98978099595599456</elt>
-             <elt>-0.0013705113544411262</elt>
-             <elt>0.14258927639548036</elt>
+             <elt>0.99967243383712212</elt>
+             <elt>-0.00039295820666682916</elt>
+             <elt>0.025590439816713693</elt>
             </vector>
            </row>
           </matrix>
@@ -732,8 +732,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -755,7 +755,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0111.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01070.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -763,23 +763,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.14259589502019943</elt>
-             <elt>0.028499953251136814</elt>
-             <elt>-0.98937058951035695</elt>
+             <elt>0.025594128029046377</elt>
+             <elt>0.02449169214620505</elt>
+             <elt>-0.999372351842019</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7037163652800641e-06</elt>
-             <elt>0.99958535394973536</elt>
-             <elt>0.02879444679586389</elt>
+             <elt>1.5527431591609228e-05</elt>
+             <elt>0.99969982700353943</elt>
+             <elt>0.024500115264873577</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.98978099129074282</elt>
-             <elt>-0.0041076555193323983</elt>
-             <elt>0.14253671963970849</elt>
+             <elt>0.99967241652920058</elt>
+             <elt>-0.00064257677264334227</elt>
+             <elt>0.025586065069869705</elt>
             </vector>
            </row>
           </matrix>
@@ -799,8 +799,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -822,7 +822,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0112.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01071.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -830,23 +830,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.21298134564101504</elt>
-             <elt>-0.028134157369611001</elt>
-             <elt>-0.97665112276495347</elt>
+             <elt>0.038383700057210639</elt>
+             <elt>-0.0036698945450498559</elt>
+             <elt>-0.99925633520330825</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.703716365287003e-06</elt>
-             <elt>0.99958535394973513</elt>
-             <elt>-0.028794446795863793</elt>
+             <elt>2.1865375181422423e-05</elt>
+             <elt>0.99999325882347589</elt>
+             <elt>-0.0036717610911056187</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.97705626573193816</elt>
-             <elt>0.0061310160890706549</elt>
-             <elt>0.21289308169988916</elt>
+             <elt>0.99926307401595882</elt>
+             <elt>0.00011908666173110071</elt>
+             <elt>0.038383521549534012</elt>
             </vector>
            </row>
           </matrix>
@@ -866,8 +866,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -889,7 +889,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0113.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01072.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -897,23 +897,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.21298137760697716</elt>
-             <elt>-0.0093794468040264492</elt>
-             <elt>-0.97701123779119581</elt>
+             <elt>0.038384288582328098</elt>
+             <elt>0.0057169499301750696</elt>
+             <elt>-0.99924669770458818</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669521692e-06</elt>
-             <elt>0.99995392538489625</elt>
-             <elt>-0.0095993283323683315</elt>
+             <elt>3.3163112519851625e-05</elt>
+             <elt>0.99998362615632519</elt>
+             <elt>0.0057224399913927389</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.97705625876391033</elt>
-             <elt>0.0020428130085345135</elt>
-             <elt>0.21297158055778892</elt>
+             <elt>0.99926305109827651</elt>
+             <elt>-0.0002527899186957408</elt>
+             <elt>0.038383470492133552</elt>
             </vector>
            </row>
           </matrix>
@@ -933,8 +933,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -956,7 +956,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0114.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01073.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -964,23 +964,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.21298140957883108</elt>
-             <elt>0.0093787207832133519</elt>
-             <elt>-0.97701123779119592</elt>
+             <elt>0.038386114811135456</elt>
+             <elt>0.015101483911389067</elt>
+             <elt>-0.99914886346999365</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7043445669504345e-06</elt>
-             <elt>0.99995392538489614</elt>
-             <elt>0.0095993283323684304</elt>
+             <elt>-4.9274979502302377e-05</elt>
+             <elt>0.99988582519471236</elt>
+             <elt>0.015110729521274041</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.97705625179459821</elt>
-             <elt>-0.0020461436430328182</elt>
-             <elt>0.21297158055778873</elt>
+             <elt>0.99926298028180871</elt>
+             <elt>-0.00053080915851640587</elt>
+             <elt>0.038382476209261336</elt>
             </vector>
            </row>
           </matrix>
@@ -1000,8 +1000,8 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -1023,7 +1023,7 @@
      <StitcherImage>
       <StitcherImage>
        <version>1</version>
-       <filename>/Users/Sufyan/Desktop/Drought_Time_Machine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-0115.png</filename>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01074.png</filename>
        <camera_model>
         <RotatedSimpleCameraModel>
          <version>1</version>
@@ -1031,23 +1031,23 @@
           <matrix>
            <row>
             <vector>
-             <elt>0.21298144154479323</elt>
-             <elt>0.028133431348797901</elt>
-             <elt>-0.97665112276495347</elt>
+             <elt>0.038385401157679001</elt>
+             <elt>0.024482257594204668</elt>
+             <elt>-0.99896305239035521</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>1.7037163652835335e-06</elt>
-             <elt>0.99958535394973524</elt>
-             <elt>0.02879444679586389</elt>
+             <elt>-1.8690068999769466e-05</elt>
+             <elt>0.99969983966623621</elt>
+             <elt>0.024499596363684265</elt>
             </vector>
            </row>
            <row>
             <vector>
-             <elt>0.9770562448265705</elt>
-             <elt>-0.0061343467235689675</elt>
-             <elt>0.21289308169988955</elt>
+             <elt>0.9992630087362615</elt>
+             <elt>-0.00092175614624383923</elt>
+             <elt>0.038374336957939646</elt>
             </vector>
            </row>
           </matrix>
@@ -1067,8 +1067,812 @@
              <elt>128</elt>
             </vector>
            </center_pixel>
-           <fl_in_pixels>10000</fl_in_pixels>
-           <k1>0</k1>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>4</elt>
+       <elt>0</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01080.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.051170058275202712</elt>
+             <elt>-0.0036664909525357219</elt>
+             <elt>-0.99868322404064003</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>-1.0529409328013765e-06</elt>
+             <elt>0.99999326055490312</elt>
+             <elt>-0.0036713544727781837</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99868995445784048</elt>
+             <elt>0.00018891497676648029</elt>
+             <elt>0.051169709556805998</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>4</elt>
+       <elt>1</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01090.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.051164952732091262</elt>
+             <elt>0.0057149465211699182</elt>
+             <elt>-0.99867386418098669</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>-4.9012474041347596e-05</elt>
+             <elt>0.99998363986141015</elt>
+             <elt>0.0057199307079292506</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99869021483626286</elt>
+             <elt>-0.00024371250745809387</elt>
+             <elt>0.05116439577004156</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>4</elt>
+       <elt>2</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01100.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.051171030537418394</elt>
+             <elt>0.015096572758744424</elt>
+             <elt>-0.99857579538294372</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>-0.00013550080523810643</elt>
+             <elt>0.99988583679775023</elt>
+             <elt>0.015109434496183179</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.9986898954496688</elt>
+             <elt>-0.00063785750964163914</elt>
+             <elt>0.051167234286474905</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>4</elt>
+       <elt>3</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01110.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.051169333771101076</elt>
+             <elt>0.024467616059613249</elt>
+             <elt>-0.99839022183001214</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>-2.2302604797104844e-05</elt>
+             <elt>0.99969986478101436</elt>
+             <elt>0.024498568517676022</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99868999133065073</elt>
+             <elt>-0.0012313087268443837</elt>
+             <elt>0.051154521743475713</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>5</elt>
+       <elt>0</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01111.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.063947301783115335</elt>
+             <elt>-0.0036659147311967739</elt>
+             <elt>-0.99794654349010203</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>4.1385709124448951e-05</elt>
+             <elt>0.99999326180317871</elt>
+             <elt>-0.0036707813148983853</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99795327590117244</elt>
+             <elt>0.00019343583515299759</elt>
+             <elt>0.063947022610090581</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>5</elt>
+       <elt>1</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01112.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.063944857253922224</elt>
+             <elt>0.0057054877167608681</elt>
+             <elt>-0.99793712359080511</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>4.9660210242443662e-05</elt>
+             <elt>0.99998363731492657</elt>
+             <elt>0.0057203702916438131</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99795343216236276</elt>
+             <elt>-0.00041534602910500013</elt>
+             <elt>0.063943527608641373</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>5</elt>
+       <elt>2</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01113.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.063942969924908374</elt>
+             <elt>0.015067792169192008</elt>
+             <elt>-0.99783979587723826</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.00018116462318395945</elt>
+             <elt>0.99988581652991881</elt>
+             <elt>0.015110297206769596</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99795353788468621</elt>
+             <elt>-0.001146970550466953</elt>
+             <elt>0.063932938943824416</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>5</elt>
+       <elt>3</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01114.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.063942850928358122</elt>
+             <elt>0.024443422037673891</elt>
+             <elt>-0.99765416399383688</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>8.7295352401024415e-05</elt>
+             <elt>0.99969984725883987</elt>
+             <elt>0.024499138151647365</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99795355813518449</elt>
+             <elt>-0.0016536353105242318</elt>
+             <elt>0.06392152450923376</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>6</elt>
+       <elt>0</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01120.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.076713365935386579</elt>
+             <elt>-0.0036634126630530825</elt>
+             <elt>-0.99704645774132472</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>5.1191874761069697e-05</elt>
+             <elt>0.99999326311128944</elt>
+             <elt>-0.0036703012719369421</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99705318657845687</elt>
+             <elt>0.00023052048717155148</elt>
+             <elt>0.076713036662939826</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>6</elt>
+       <elt>1</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01130.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.0767121566282917</elt>
+             <elt>0.0056981313786555873</elt>
+             <elt>-0.99703699847308969</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>6.6077469075950281e-05</elt>
+             <elt>0.99998363816484981</elt>
+             <elt>0.0057200556254789672</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99705327874652927</elt>
+             <elt>-0.00050467948449846745</elt>
+             <elt>0.076710524958530896</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>6</elt>
+       <elt>2</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01140.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.076709982027544865</elt>
+             <elt>0.015061324214106659</elt>
+             <elt>-0.99693968482062711</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>7.7101177585088554e-05</elt>
+             <elt>0.99988580777915514</elt>
+             <elt>0.01511176552341106</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99705344526396478</elt>
+             <elt>-0.0012360884853863116</elt>
+             <elt>0.076700061098503247</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
+          </SimpleCameraModel>
+         </SimpleCameraModel>
+        </RotatedSimpleCameraModel>
+       </camera_model>
+      </StitcherImage>
+     </StitcherImage>
+    </GigapanStitcherImage>
+   </elt>
+   <elt>
+    <GigapanStitcherImage>
+     <version>1</version>
+     <gridloc_valid>1</gridloc_valid>
+     <gridloc>
+      <vector>
+       <elt>6</elt>
+       <elt>3</elt>
+      </vector>
+     </gridloc>
+     <StitcherImage>
+      <StitcherImage>
+       <version>1</version>
+       <filename>/Users/Sufyan/Desktop/drought-timemachine/drought-timemachine.tmc/0100-unstitched/2016-01-01-000000/IMG-2016-01-01150.png</filename>
+       <camera_model>
+        <RotatedSimpleCameraModel>
+         <version>1</version>
+         <rotation>
+          <matrix>
+           <row>
+            <vector>
+             <elt>0.076713232746375135</elt>
+             <elt>0.024422973804241428</elt>
+             <elt>-0.99675403097863535</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>6.3873133052647774e-05</elt>
+             <elt>0.99969982621629638</elt>
+             <elt>0.024500069047456764</elt>
+            </vector>
+           </row>
+           <row>
+            <vector>
+             <elt>0.99705319609428256</elt>
+             <elt>-0.0019431453019812736</elt>
+             <elt>0.076688645473186282</elt>
+            </vector>
+           </row>
+          </matrix>
+         </rotation>
+         <SimpleCameraModel>
+          <SimpleCameraModel>
+           <version>1</version>
+           <pixel_size>
+            <vector>
+             <elt>256</elt>
+             <elt>256</elt>
+            </vector>
+           </pixel_size>
+           <center_pixel>
+            <vector>
+             <elt>128</elt>
+             <elt>128</elt>
+            </vector>
+           </center_pixel>
+           <fl_in_pixels>9999.9630829115486</fl_in_pixels>
+           <k1>0.84547298259687842</k1>
           </SimpleCameraModel>
          </SimpleCameraModel>
         </RotatedSimpleCameraModel>
@@ -1081,7 +1885,7 @@
  </images>
  <grid_size>
   <vector>
-   <elt>4</elt>
+   <elt>7</elt>
    <elt>4</elt>
   </vector>
  </grid_size>
@@ -1108,8 +1912,8 @@
  </match_set>
  <vignette_curve>
   <vector>
-   <elt>0.031195122748613358</elt>
-   <elt>0.052112024277448654</elt>
+   <elt>-0.027535011991858482</elt>
+   <elt>-0.0028557528275996447</elt>
   </vector>
  </vignette_curve>
  <composite_bbox_proj>
@@ -1117,23 +1921,23 @@
    <min>
     <vector>
      <elt>3894</elt>
-     <elt>3823</elt>
+     <elt>3885</elt>
     </vector>
    </min>
    <max>
     <vector>
-     <elt>4496</elt>
-     <elt>4031</elt>
+     <elt>4151</elt>
+     <elt>4020</elt>
     </vector>
    </max>
   </bbox>
  </composite_bbox_proj>
  <notes>GigaPan Stitch.Efx version 2.1.0160 (Macintosh)
-Panorama size: 2 megapixels (2408 x 832 pixels)
-Input images: 16 (4 columns by 4 rows)
-Field of view:  13.8 degrees wide by 4.8 degrees high (top=2.4, bottom=-2.4)
+Panorama size: 0 megapixels (1028 x 540 pixels)
+Input images: 28 (7 columns by 4 rows)
+Field of view:  5.9 degrees wide by 3.1 degrees high (top=1.0, bottom=-2.1)
 Settings:
-  Vignette correction on: c1=0.0312 c2=0.0521
+  Vignette correction on: c1=-0.0275 c2=-0.00286
   All default settings
 Original image properties:
   Camera make: unknown
@@ -1146,12 +1950,13 @@ Original image properties:
   Focal length (35mm equiv.): unknown
   White balance: unknown
   Exposure mode: unknown
-Vertical overlap: 25.0 to 25.0 percent
+Horizontal overlap: 50.0 to 50.0 percent
+Vertical overlap: 63.3 to 63.3 percent
 Computer stats: 4096 MB RAM, 2 CPUs
-Total time 2.5 seconds (0.2 seconds per picture)
-  Alignment: 1.1 seconds, Projection: 0.2 seconds, Blending: 1.2 seconds
-(Preview finished in 1.5 seconds)
+Total time 4.0 seconds (0.1 seconds per picture)
+  Alignment: 2.6 seconds, Projection: 0.4 seconds, Blending: 1.0 seconds
+(Preview finished in 3.2 seconds)
 </notes>
- <pixels_per_radian>10000</pixels_per_radian>
+ <pixels_per_radian>9999.9630829115486</pixels_per_radian>
  <capture_time></capture_time>
 </GigapanStitcher>

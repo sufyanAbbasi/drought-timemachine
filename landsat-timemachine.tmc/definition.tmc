@@ -1,0 +1,1 @@
+{"source": {"align_to": "[i-1]", "rows": 3, "capture_times": ["test_tiles-000000"], "cols": 9, "height": 1, "width": 1, "align_to_comment": "Align each gigapan to the previous one", "type": "stitch"}, "videosets": [{"quality": 26, "size": "large", "type": "h.264", "fps": 1, "label": "Drought Timelapse"}]}

@@ -5,13 +5,13 @@
    <min>
     <vector>
      <elt>15576</elt>
-     <elt>15292</elt>
+     <elt>15540</elt>
     </vector>
    </min>
    <max>
     <vector>
-     <elt>17984</elt>
-     <elt>16124</elt>
+     <elt>16604</elt>
+     <elt>16080</elt>
     </vector>
    </max>
   </bbox>
@@ -22,7 +22,7 @@
    <elt>31416</elt>
   </vector>
  </projection_size>
- <nlevels>5</nlevels>
+ <nlevels>4</nlevels>
  <tile_size>256</tile_size>
  <suffix>jpg</suffix>
 </QuadTreeInfo>

@@ -1,7 +1,8 @@
-import sys, getopt, json
-from os import listdir, walk, makedirs
+import sys, getopt, json, math
+from os import listdir, walk, makedirs, rename
 from os.path import isfile, join, isdir, exists
 from shutil import copyfile
+from imageProcessing import createintermediarytiles
 
 def main(argv):
 	source_root = ''
@@ -43,15 +44,28 @@ def main(argv):
 		i = 0;
 		tile_dirs = sorted([int(f) for f in walk(current_path).next()[1]])
 		numcols = len(tile_dirs)
+
 		for tile_dir in tile_dirs:
-			current_path_file = current_path + str(tile_dir) + '/'
-			file_ext = '.' + listdir(current_path_file)[0].split('.')[1]
-			file_dir = sorted([int(f.split('.')[0]) for f in listdir(current_path_file)])
+			current_path_to_file = current_path + str(tile_dir) + '/'
+			all_files = listdir(current_path_to_file)
+			file_dir = sorted([int(f.split('.')[0]) for f in all_files])
 			numrows = len(file_dir)
-			for file in file_dir:
-				path_to_file = current_path_file + str(file) + file_ext
-				copyfile(path_to_file, "{0}IMG-{1}{2:0=2d}{3}".format(dest_dir, current_dir, i, file_ext))
+
+			for file_num in file_dir:
+				file = next(f for f in all_files if str(file_num) in f)
+				try:
+					file_ext = '.' + file.split('.')[1]
+				except IndexError:
+					print '{0}: No File Extension. Casting as png'.format(current_path_to_file + file)
+					file_ext = '.png'
+					rename(current_path_to_file + file, current_path_to_file + file + file_ext)
+					file += file_ext
+
+				path_to_file = current_path_to_file + file
+				copyfile(path_to_file, "{0}IMG-{1}{2:0={3}d}{4}{5}".format(dest_dir, current_dir, i, len(str(numcols*numrows)), '0'*len(str(numrows+1)), file_ext))
 				i += 1
+		numcols = createintermediarytiles(dest_dir, numrows, numcols, file_ext)
+
 
 	definitions = {}
 	capture_times = walk('{0}{1}'.format(dest_root, type_root)).next()[1]
@@ -69,7 +83,7 @@ def main(argv):
 	videosets["type"] = "h.264"
 	videosets["size"] = "large"
 	videosets["quality"] = 26
-	videosets["fps"] = len(time_folders)/2
+	videosets["fps"] = int(math.ceil(len(time_folders)/2.0))
 	definitions["videosets"] = [videosets]
 	
 	with open(dest_root+'definition.tmc', 'w') as outfile:
@@ -77,6 +91,3 @@ def main(argv):
 	
 if __name__ == "__main__":
    main(sys.argv[1:])
-
-
-
